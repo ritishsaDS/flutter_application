@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "895838704351-f2rkm2ev316f4ligrlsuich1u0urj5a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.markets",
+            "certificate_hash": "14fe60af6278a3e783703314a9a886865705fef5"
+          }
+        },
+        {
           "client_id": "895838704351-5ktblfbpen2nv1gj9eklpiejlplcpqo6.apps.googleusercontent.com",
           "client_type": 3
         }

@@ -164,17 +164,7 @@ class MainDashBoardAppBar extends StatelessWidget {
                           fontWeight: FontWeight.bold),
                     ),
                   ),
-                  GestureDetector(
-                    onTap: () {
-                      //Navigator.pushNamed(context, ProfileScreen.route);
-                    },
-                    child: Container(
-                        child: CircleAvatar(
-                          radius: SizeConfig.blockSizeHorizontal * 5.6,
-                          backgroundImage: NetworkImage("https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200"),
-
-                        )),
-                  ),
+                 SizedBox(),
                 ],
               ),
             ),

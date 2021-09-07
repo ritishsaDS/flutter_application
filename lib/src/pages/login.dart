@@ -130,7 +130,7 @@ class _LoginWidgetState extends StateMVC<LoginWidget> {
                       MaterialButton(
                         elevation: 0,
                         onPressed: () {
-                          Navigator.of(context).pushReplacementNamed('/Pages', arguments: 2);
+                          Navigator.of(context).pushReplacementNamed('/Pages', arguments: 0);
                         },
                         shape: StadiumBorder(),
                         textColor: Theme.of(context).hintColor,
