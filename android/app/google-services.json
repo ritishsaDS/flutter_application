@@ -1,49 +1,41 @@
 {
   "project_info": {
-    "project_number": "895838704351",
-    "project_id": "fastkart-b1ffc",
-    "storage_bucket": "fastkart-b1ffc.appspot.com"
+    "project_number": "161488518039",
+    "project_id": "fastkart-48333",
+    "storage_bucket": "fastkart-48333.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:895838704351:android:43ff21aeaea86db1540f6a",
+        "mobilesdk_app_id": "1:161488518039:android:cbfff91701b8f19a5a22d2",
         "android_client_info": {
-          "package_name": "com.smartersvision.markets"
+          "package_name": "com.fastkart.markets"
         }
       },
       "oauth_client": [
         {
-          "client_id": "895838704351-bcm1tvb95csb36dle0n67pa8vd5j00ks.apps.googleusercontent.com",
+          "client_id": "161488518039-2ptscmkiotrsbgot01hjhlii5457fr0f.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.smartersvision.markets",
-            "certificate_hash": "bbb6439b4c3b8095212534612f4a2202ad2a9414"
-          }
-        },
-        {
-          "client_id": "895838704351-f2rkm2ev316f4ligrlsuich1u0urj5a5.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.smartersvision.markets",
+            "package_name": "com.fastkart.markets",
             "certificate_hash": "14fe60af6278a3e783703314a9a886865705fef5"
           }
         },
         {
-          "client_id": "895838704351-5ktblfbpen2nv1gj9eklpiejlplcpqo6.apps.googleusercontent.com",
+          "client_id": "161488518039-2ep24i6pe842mdvv1hjjiq2204d3880t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD9JqaGTMrfVfZerEExxCY5YpEiVauN2IQ"
+          "current_key": "AIzaSyA9JpwUQ3jGIljfCLReYgEPeqQ-r-_u6ZM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "895838704351-5ktblfbpen2nv1gj9eklpiejlplcpqo6.apps.googleusercontent.com",
+              "client_id": "161488518039-2ep24i6pe842mdvv1hjjiq2204d3880t.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
